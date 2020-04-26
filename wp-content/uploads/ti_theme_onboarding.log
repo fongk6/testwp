@@ -1,0 +1,15 @@
+[26/Apr/2020:06:45:17] (ℹ️): WordPress Instance Info:
+[26/Apr/2020:06:45:17] (ℹ️): Home URL : http://localhost/wpone
+[26/Apr/2020:06:45:17] (ℹ️): Site URL : http://localhost/wpone
+[26/Apr/2020:06:45:17] (ℹ️): WordPress Version : 5.4
+[26/Apr/2020:06:45:17] (ℹ️): Onboarding Version : 1.7.12
+[26/Apr/2020:06:45:17] (ℹ️): Multisite : No
+[26/Apr/2020:06:45:17] (ℹ️): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3
+[26/Apr/2020:06:45:17] (ℹ️): PHP Version : 7.4.3
+[26/Apr/2020:06:45:17] (ℹ️): HTTPS : No
+[26/Apr/2020:06:45:17] (ℹ️): PHP Max Execution Time : 120
+[26/Apr/2020:06:45:17] (ℹ️): PHP Max Input Vars : 1000
+[26/Apr/2020:06:45:17] (ℹ️): Max Upload Size : 41943040
+[26/Apr/2020:06:45:17] (ℹ️): Plugins:
+[26/Apr/2020:06:45:17] (ℹ️): [PLUGIN] All-in-One WP Migration : v7.20 (ServMask)
+[26/Apr/2020:06:45:17] (ℹ️): [PLUGIN] Simply Static : v2.1.0 (Code of Conduct LLC)
